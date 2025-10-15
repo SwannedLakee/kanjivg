@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_06108-Hyougai" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06108-Hyougai" kvg:element="愈">
-	<g id="kvg:06108-Hyougai-g1" kvg:element="兪" kvg:variant="true" kvg:position="top">
+	<g id="kvg:06108-Hyougai-g1" kvg:element="俞" kvg:position="top">
 		<g id="kvg:06108-Hyougai-g2" kvg:element="入" kvg:original="人" kvg:position="top" kvg:radical="nelson">
 			<path id="kvg:06108-Hyougai-s1" kvg:type="㇒" d="M52.63,10.25c0.1,0.71,0.53,1.97-0.21,2.84C46.5,20,33.25,32.25,16,40.23"/>
 			<path id="kvg:06108-Hyougai-s2" kvg:type="㇏" d="M52.73,12.89c5.44,4.64,28.85,19.78,34.85,23.17c2.03,1.15,4.64,1.65,6.68,1.97"/>
